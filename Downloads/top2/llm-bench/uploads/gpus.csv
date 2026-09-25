@@ -1,0 +1,5 @@
+gpu,vram_gb,price_usd,tops
+L4,24,900,242
+L40S,48,7000,733
+Jetson Orin Nano,8,500,40
+RTX 4090,24,1600,1321

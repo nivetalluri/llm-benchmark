@@ -1,0 +1,16 @@
+#,Timestamp,Model,Quant,Prompt,Prompt tokens,Gen tokens,Prompt tok/s,Gen tok/s,TTFT (s),Total inference (s),CPU util %,GPU util %,RAM util %,RAM used (GB),Power (W),Temp (°C),Achieved TOPS,Device peak TOPS,TOPS util %
+1,2026-09-22 07:06:20,Llama 3.2 1B Instruct (diagnostic — for very low-RAM smoke tests),Q4_K_M,"You are a meticulous data analyst. Analyse the document excerpt below and respond with:
+1) a concise summary,
+2) key fac",134,40,71.16,17.06,1.88,4.17,87.6,,56.7,1.2,,,0.1035,,
+2,2026-09-22 07:06:23,Llama 3.2 1B Instruct (diagnostic — for very low-RAM smoke tests),Q4_K_M,"You are a meticulous data analyst. Analyse the document excerpt below and respond with:
+1) a concise summary,
+2) key fac",117,40,112.12,18.05,1.04,3.2,99.9,,57.0,1.2,,,0.1215,,
+3,2026-09-22 07:06:26,Llama 3.2 1B Instruct (diagnostic — for very low-RAM smoke tests),Q4_K_M,"You are a meticulous data analyst. Analyse the document excerpt below and respond with:
+1) a concise summary,
+2) key fac",110,40,120.48,17.69,0.91,3.12,100.0,,57.1,1.2,,,0.1193,,
+4,2026-09-22 07:06:30,Llama 3.2 1B Instruct (diagnostic — for very low-RAM smoke tests),Q4_K_M,"You are a meticulous data analyst. Analyse the document excerpt below and respond with:
+1) a concise summary,
+2) key fac",139,40,107.67,17.38,1.29,3.53,100.0,,57.2,1.2,,,0.1256,,
+5,2026-09-22 07:06:32,Llama 3.2 1B Instruct (diagnostic — for very low-RAM smoke tests),Q4_K_M,What is 17 * 23? Show the steps.,13,40,53.87,16.67,0.24,2.58,100.0,,57.4,1.2,,,0.0509,,
+6,2026-09-22 07:06:35,Llama 3.2 1B Instruct (diagnostic — for very low-RAM smoke tests),Q4_K_M,Name three prime numbers above 50.,9,40,58.76,17.62,0.15,2.37,100.0,,57.5,1.2,,,0.0513,,
+,,,,AVERAGE,,,87.34,17.41,0.92,3.16,97.92,,57.15,1.2,,,0.1,,
